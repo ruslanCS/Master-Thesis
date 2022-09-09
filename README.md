@@ -6,3 +6,5 @@ IndividualAnalysis.ipynb extracts the relevant reaching movements from a continu
 GroupAnalysis.ipynb uses the results obtained through the analyses of each individual subjects to calculate corresponding results on a group level and plots them. 
 
 CompareConditions.ipynb compares mean trajectories and other relevant movement parameters between 13 different experimental conditions. 
+
+ReachNThrowSchedule.py and Versuchszenario_final.py contain the code for the setup and procedure of the reaching experiment I have used to collect sophisticated movement data. 
