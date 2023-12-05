@@ -7,4 +7,3 @@ GroupAnalysis.ipynb uses the results obtained through the analyses of each indiv
 
 CompareConditions.ipynb compares mean trajectories and other relevant movement parameters between 13 different experimental conditions. 
 
-ReachNThrowSchedule.py and Versuchszenario_final.py contain the code for the setup and procedure of the reaching experiment I have used to collect sophisticated movement data. 
